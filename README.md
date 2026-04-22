@@ -28,3 +28,4 @@ Dashboards:
 
 Prime Video - https://github.com/francaugusto/Dashboards/blob/ee08d530a80525ddeca8638e8ad3a272e18dfee1/Prime%20Video.jpg
 Evolução Corporal - https://github.com/francaugusto/Dashboards/blob/29902f255b4c53ceac62799a269a488a4009c91f/Evolu%C3%A7%C3%A3o%20Corporal.jpg
+Currículo - https://github.com/francaugusto/Dashboards/blob/84d52b21bba4553474aefaeea04904a04928d57b/dashboard_curr%C3%ADculo.1.jpg
