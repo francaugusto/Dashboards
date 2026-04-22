@@ -25,4 +25,6 @@ Aprendizados:
 - Pensamento analítico voltado para negócio
 
 Dashboards:
+
 Prime Video - https://github.com/francaugusto/Dashboards/blob/ee08d530a80525ddeca8638e8ad3a272e18dfee1/Prime%20Video.jpg
+Evolução Croporal - https://github.com/francaugusto/Dashboards/blob/29902f255b4c53ceac62799a269a488a4009c91f/Evolu%C3%A7%C3%A3o%20Corporal.jpg
