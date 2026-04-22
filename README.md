@@ -23,3 +23,6 @@ Aprendizados:
 - Design de dashboards (hierarquia visual, cores, clareza)
 - Tradução de dados em insights acionáveis
 - Pensamento analítico voltado para negócio
+
+Dashboards:
+Prime Video - https://github.com/francaugusto/Dashboards/blob/ee08d530a80525ddeca8638e8ad3a272e18dfee1/Prime%20Video.jpg
