@@ -30,3 +30,8 @@ Prime Video - https://github.com/francaugusto/Dashboards/blob/ee08d530a80525ddec
 Evolução Corporal - https://github.com/francaugusto/Dashboards/blob/29902f255b4c53ceac62799a269a488a4009c91f/Evolu%C3%A7%C3%A3o%20Corporal.jpg
 Currículo - https://github.com/francaugusto/Dashboards/blob/84d52b21bba4553474aefaeea04904a04928d57b/dashboard_curr%C3%ADculo.1.jpg
 https://github.com/francaugusto/Dashboards/blob/460e7b44efa1478ee569968f0b29b23d92a67903/dashboard_curr%C3%ADculo.2.jpg
+https://github.com/francaugusto/Dashboards/blob/e0d8010291a8dee29755d1fb2615173d858d63eb/dashboard_curr%C3%ADculo.3.jpg
+https://github.com/francaugusto/Dashboards/blob/e0d8010291a8dee29755d1fb2615173d858d63eb/dashboard_curr%C3%ADculo.4.jpg
+https://github.com/francaugusto/Dashboards/blob/e0d8010291a8dee29755d1fb2615173d858d63eb/dashboard_curr%C3%ADculo.5.jpg
+https://github.com/francaugusto/Dashboards/blob/e0d8010291a8dee29755d1fb2615173d858d63eb/dashboard_curr%C3%ADculo.6.jpg
+https://github.com/francaugusto/Dashboards/blob/e0d8010291a8dee29755d1fb2615173d858d63eb/dashboard_curr%C3%ADculo.7.jpg
